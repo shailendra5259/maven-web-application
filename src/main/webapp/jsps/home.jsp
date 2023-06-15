@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">and band ka tola jo yeh pad raha hain wo hain sonu ka LOLA</h1>
+<h1 align="center">/h1>
 <h1 align="center"> HAPPY BIRTHDAY SONU DADA IN ADVANCE</h1>
 <hr>
 <br>
