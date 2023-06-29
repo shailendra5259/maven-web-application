@@ -1,4 +1,3 @@
-@Library('sharedlibsmss') _
 node('walmartnode'){
 
 try{
